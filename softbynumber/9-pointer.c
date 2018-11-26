@@ -3,7 +3,7 @@
 #include <string.h>
 void abc(char *ab)
 {
-	strcpy(&ab, "21")
+	strcpy(&ab, "21");
 	//abc2(&ab);
 }
 void abc2(char *ab)
